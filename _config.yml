@@ -1,4 +1,5 @@
-safe:   true
-auto:   true
-server: true
+safe:      true
+auto:      true
+server:    true
 permalink: none
+exclude:   [ "README.md" ]
