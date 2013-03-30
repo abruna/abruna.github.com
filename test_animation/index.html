@@ -26,7 +26,7 @@
     $(document).scroll(function(e) {
       var scrollPercent = (window.scrollY / 3000.0);
       console.log(scrollPercent);
-      var offset = 4200 * scrollPercent;
+      var offset = 5100 * scrollPercent;
       offset = offset - (offset % 300);
       offset = -1 * offset;
       logo.style.backgroundPosition = "0 " + offset + "px";
