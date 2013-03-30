@@ -1,0 +1,32 @@
+<html>
+<head>
+  <title>Abruna Animation</title>
+  <style type="text/css">
+    #logo {
+      position: absolute;
+      width: 400px;
+      height: 300px;
+      overflow: hidden;
+      background: url('./sprites.png');
+    }
+  </style>
+</head>
+<body>
+  <div id="logo" style="background-position: 0 -300px"></div>
+
+  <script type="text/javascript">
+    var logo = document.getElementById('logo');
+    var offset = 0;
+
+    function reposition() {
+      offset = offset - 300;
+      if (offset < -3600) offset = 0;
+      logo.style.backgroundPosition = "0 " + offset + "px";
+
+      window.setTimeout(reposition, 200);
+    }
+
+    window.setTimeout(reposition, 200);
+  </script>
+</body>
+</html>
