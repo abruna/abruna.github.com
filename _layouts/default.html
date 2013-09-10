@@ -1,13 +1,39 @@
 <html>
 <head>
-  <title>Abru&ntilde;a Group</title>
-  <link href="/css/bootstrap.min.css" rel="stylesheet" media="screen">
+  <title>Abru&ntilde;a Electrochemistry</title>
+  <link rel="stylesheet" type="text/css" href="css/normalize.css">
+  <link rel="stylesheet" type="text/css" href="css/abruna.css">
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js" type="text/javascript"></script>
+  <script type="text/javascript" src="js/abruna.js"></script>
 </head>
+
 <body>
 
-  <h1><a href="/">The Abru&ntilde;a Group</a></h1>
+<div id="content">
+
+  <header>
+    <img src="images/banner.png" alt="Abru&ntild;a Electrochemistry">
+  </header>
+
+  <nav>
+    <ul>
+      {% include tab.html name="about" %}
+      {% include tab.html name="projects" %}
+      {% include tab.html name="people" %}
+      {% include tab.html name="publications" %}
+      {% include tab.html name="collaborators" %}
+    </ul>
+  </nav>
+
+  <section id="maincol">
 
   {{ content }}
+
+  </section>
+
+<div style="clear: both"></div>
+
+</div>
 
 </body>
 </html>
