@@ -8,7 +8,7 @@ tab: people
 
 {% for person in site.categories.postdocs | sort %}
 <section class="person">
-  <img src="images/rebecca_1.jpg">
+  <img src="images/{{ person.photo }}">
   <section class="info">
     <p class="name">{{ person.name }}</p>
     <p class="email"><a href="mailto:{{ person.email }}">{{ person.email }}</a></p>
@@ -22,30 +22,16 @@ tab: people
 
 <h3>Graduate Students</h3>
 
+{% for person in site.categories.grads | sort %}
 <section class="person">
-  <img src="images/rebecca_3.jpg">
+  <img src="images/{{ person.photo }}">
   <section class="info">
-    <p class="name">Rebecca Potash</p>
-    <p class="email"><a href="#">email@cornell.example.com</a></p>
+    <p class="name">{{ person.name }}</p>
+    <p class="email"><a href="mailto:{{ person.email }}">{{ person.email }}</a></p>
     <p class="description">
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+      {{ person.content }}
     </p>
   </section>
   <div style="clear: both"></div>
 </section>
-
-<section class="person">
-  <img src="images/rebecca_4.jpg">
-  <section class="info">
-    <p class="name">Rebecca Potash</p>
-    <p class="email"><a href="#">email@cornell.example.com</a></p>
-    <p class="description">
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    </p>
-  </section>
-  <div style="clear: both"></div>
-</section>
+{% endfor %}
