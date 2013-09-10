@@ -1,0 +1,7 @@
+{% if include.name == page.tab %}
+<li class="selected">
+{% else %}
+<li>
+{% endif %}
+  <a href="{{ include.name }}.html">{{ include.name | capitalize }}</a>
+</li>
