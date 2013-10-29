@@ -1,5 +1,5 @@
 ---
-name: James Pastore
+name: James Pastore TEST
 email: jpp236@cornell.edu
 office: 202
 photo: rebecca_1.jpg
