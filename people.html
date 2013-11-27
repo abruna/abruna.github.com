@@ -22,14 +22,13 @@ tab: people
 
 <h3>Graduate Students</h3>
 
-{% for person in site.categories.grads | sort %}
+{% for person in site.data.grads | sort %}
 <section class="person">
   <img src="images/{{ person.photo }}">
   <section class="info">
     <p class="name">{{ person.name }}</p>
     <p class="email"><a href="mailto:{{ person.email }}">{{ person.email }}</a></p>
     <p class="description">
-      {{ person.content }}
     </p>
   </section>
   <div style="clear: both"></div>
