@@ -83,6 +83,10 @@ figcaption {
   text-align: center;
 }
 
+////////////////////////////
+// People
+////////////////////////////
+
 .person {
   width: 670px;
   margin-bottom: 24px;
@@ -112,6 +116,10 @@ figcaption {
   }
 }
 
+////////////////////////////
+// Projects
+////////////////////////////
+
 .project {
   margin: 24px 0;
   .name a {
@@ -120,3 +128,43 @@ figcaption {
     font-size: 1.17em;
   }
 }
+
+////////////////////////////
+// Photos
+////////////////////////////
+.photobox {
+  margin-bottom: 48px;
+
+  img {
+    width: 670px;
+  }
+  .caption {
+    color: #F4F2ED;
+    width: 658px;
+    padding: 6px;
+    text-align: center;
+    background-color: #E18280;
+  }
+}
+
+.photos {
+  margin-left: -24px;
+  .thumbnail {
+    float: left;
+    margin-left: 24px;
+    margin-bottom: 24px;
+    overflow: hidden;
+
+    img {
+      width: 207px;
+      height: 207px;
+    }
+    &:hover {
+      border: 6px solid #E18280;
+      img {
+        margin: -6px;
+      }
+    }
+  }
+}
+

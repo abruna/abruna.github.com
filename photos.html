@@ -1,0 +1,23 @@
+---
+layout: default
+tab: photos
+---
+<h1>Photos</h1>
+
+<div class="photobox">
+  <img
+    src="/images/{{ site.data.photos.first.filename }}"
+    alt="{{ site.data.photos.first.caption }}" />
+  <p class="caption">
+    {{ site.data.photos.first.caption }}
+  </p>
+</div>
+
+<section class="photos">
+  {% for photo in site.data.photos %}
+  <a class="thumbnail" href="">
+    <img
+      src="/images/{{ photo.thumbnail }}" />
+  </a>
+  {% endfor %}
+</section>
