@@ -6,14 +6,13 @@ tab: people
 
 <h3>Post Docs</h3>
 
-{% for person in site.categories.postdocs | sort %}
+{% for person in site.data.postdocs | sort %}
 <section class="person">
   <img src="images/{{ person.photo }}">
   <section class="info">
     <p class="name">{{ person.name }}</p>
     <p class="email"><a href="mailto:{{ person.email }}">{{ person.email }}</a></p>
     <p class="description">
-      {{ person.content }}
     </p>
   </section>
   <div style="clear: both"></div>
