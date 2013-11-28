@@ -68,10 +68,6 @@ nav ul li a {
   background-color: #F5D8C4;
   float: left;
 }
-figcaption {
-  font-weight: bold;
-  text-align: center;
-}
 .person {
   width: 670px;
   margin-bottom: 24px;
