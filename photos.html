@@ -7,9 +7,8 @@ tab: photos
 <section class="photos">
   {% for album in site.categories.photoalbums %}
   <a class="thumbnail" href="{{ album.url }}">
-    <img
-      src="/images/{{ album.thumbnail }}"
-      />
+    <img src="/images/{{ album.thumbnail }}" />
+    <p class="caption">{{ album.caption }}</p>
   </a>
   {% endfor %}
 </section>

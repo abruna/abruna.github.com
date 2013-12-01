@@ -128,6 +128,7 @@ nav ul li a {
   margin-left: 24px;
   margin-bottom: 24px;
   overflow: hidden;
+  position: relative;
 }
 .photos .thumbnail img {
   width: 207px;
@@ -138,4 +139,23 @@ nav ul li a {
 }
 .photos .thumbnail:hover img {
   margin: -6px;
+}
+.photos .thumbnail:hover .caption {
+  padding: 6px 0 0 0;
+}
+.photos .thumbnail .caption {
+  width: 100%;
+  padding: 6px 0;
+  color: #F4F2ED;
+  text-decoration: none;
+  background-color: #E18280;
+  position: absolute;
+  bottom: 0;
+  text-align: center;
+  -moz-opacity: 0.9;
+  -khtml-opacity: 0.9;
+  -webkit-opacity: 0.9;
+  opacity: 0.9;
+  -ms-filter: progid:DXImageTransform.Microsoft.Alpha(opacity=90);
+  filter: alpha(opacity=90);
 }
