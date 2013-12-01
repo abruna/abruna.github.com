@@ -1,7 +1,0 @@
----
-name: Roxana Amirahmadi
-email: roxyamirahmadi@gmail.com
-office: 218
-photo: rebecca_1.jpg
----
-I am a senior undergraduate studying chemistry and chemical biology in the College of Arts and Sciences, and I am working on a project aimed to develop a biosensor that electrochemically detects avian flu antibodies. Using QCM frequency analysis and electrochemical detection of hydrogen peroxide produced by antibodies bound to specialized polymer brushes, we can detect trace amounts of antibody in any solution, and by extension in the blood serum of an affected patient. We hope that this platform for antibody detection can be translated into the development of a portable battery-powered microfluidic device that can detect and diagnose avian flu infection in patients living in remote and socioeconomically marginalized parts of the world where laboratories or hospitals are out of reach. I am particularly interested in the medical applications of electrochemistry because I am pre-med and hope to practice and research developmental or reproductive endocrinology as a future doctor. Beyond my research and studies, my passions lie in playing recreational badminton and reading, debating, and writing about political and social issues.
