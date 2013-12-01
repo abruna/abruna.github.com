@@ -1,0 +1,40 @@
+---
+layout: default
+tab: photos
+---
+<h1>{{ page.title }}</h1>
+
+<div class="photobox" id="photobox">
+  <img
+    src="/images/{{ page.photos.first.filename }}"
+    alt="{{ page.photos.first.caption }}" />
+  <p class="caption">
+    {{ page.photos.first.caption }}
+  </p>
+</div>
+
+<section class="photos">
+  {% for photo in page.photos %}
+  <a class="thumbnail" href="#">
+    <img
+      src="/images/{{ photo.thumbnail }}"
+      data-caption="{{ photo.caption }}"
+      data-filename="/images/{{ photo.filename }}"
+      />
+  </a>
+  {% endfor %}
+</section>
+
+<script src="//code.jquery.com/jquery-1.10.2.min.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+$('.thumbnail').click(function() {
+  $('body, html').animate({ scrollTop: $('#maincol').position().top })
+  caption = $('img', this).data('caption')
+  filename = $('img', this).data('filename')
+  $('#photobox img').attr('src', filename)
+  $('#photobox img').attr('alt', caption)
+  $('#photobox .caption').text(caption)
+  return false
+})
+</script>
