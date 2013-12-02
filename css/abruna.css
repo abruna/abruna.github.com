@@ -93,6 +93,21 @@ nav ul li a {
 .person .info .email a:visited {
   color: #059E9A;
 }
+.hector-abruna .headline {
+  color: #059E9A;
+  text-align: center;
+  padding: 12px 0;
+  font-size: 1.17em;
+}
+.hector-abruna .headline .name {
+  font-weight: bold;
+}
+.hector-abruna .headline a.email {
+  color: #059E9A;
+}
+.hector-abruna .headline a.email:visited {
+  color: #059E9A;
+}
 .project {
   margin: 24px 0;
 }

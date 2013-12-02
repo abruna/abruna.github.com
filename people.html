@@ -4,11 +4,28 @@ tab: people
 ---
 <h1>Group Members</h1>
 
+<div class="hector-abruna">
+  <img src="/images/{{ site.data.hector_abruna.photo }}" width="670px" />
+  <p class="headline">
+    <span class="name">{{ site.data.hector_abruna.name }}</span>
+    &middot;
+    <a href="mailto:{{ site.data.hector_abruna.email }}" class="email">{{ site.data.hector_abruna.email }}</a>
+  </p>
+  <p class="description">
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  </p>
+</div>
+
 <h3>Post Docs</h3>
 
 {% for person in site.data.postdocs | sort %}
 <section class="person">
-  <img src="images/{{ person.photo }}">
+  <img src="/images/{{ person.photo }}">
   <section class="info">
     <p class="name">{{ person.name }}</p>
     <p class="email"><a href="mailto:{{ person.email }}">{{ person.email }}</a></p>
@@ -27,7 +44,7 @@ tab: people
 
 {% for person in site.data.grads | sort %}
 <section class="person">
-  <img src="images/{{ person.photo }}">
+  <img src="/images/{{ person.photo }}">
   <section class="info">
     <p class="name">{{ person.name }}</p>
     <p class="email"><a href="mailto:{{ person.email }}">{{ person.email }}</a></p>
