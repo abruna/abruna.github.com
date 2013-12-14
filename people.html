@@ -23,38 +23,42 @@ tab: people
 
 <h3>Post Docs</h3>
 
-{% for person in site.data.postdocs | sort %}
-<section class="person">
-  <img src="/images/{{ person.photo }}">
-  <section class="info">
-    <p class="name">{{ person.name }}</p>
-    <p class="email"><a href="mailto:{{ person.email }}">{{ person.email }}</a></p>
-    <p class="description">
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-      consequat.
-    </p>
-  </section>
-  <div style="clear: both"></div>
-</section>
-{% endfor %}
+<ul class="people">
+  {% for person in site.data.postdocs | sort %}
+  <li class="person">
+    <img src="/images/{{ person.photo }}">
+    <section class="info">
+      <p class="name">{{ person.name }}</p>
+      <p class="email"><a href="mailto:{{ person.email }}">{{ person.email }}</a></p>
+      <p class="description">
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+        quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+        consequat.
+      </p>
+    </section>
+    <div style="clear: both"></div>
+  </li>
+  {% endfor %}
+</ul>
 
 <h3>Graduate Students</h3>
 
-{% for person in site.data.grads | sort %}
-<section class="person">
-  <img src="/images/{{ person.photo }}">
-  <section class="info">
-    <p class="name">{{ person.name }}</p>
-    <p class="email"><a href="mailto:{{ person.email }}">{{ person.email }}</a></p>
-    <p class="description">
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-      consequat.
-    </p>
-  </section>
-  <div style="clear: both"></div>
-</section>
-{% endfor %}
+<ul class="people">
+  {% for person in site.data.grads | sort %}
+  <li class="person">
+    <img src="/images/{{ person.photo }}">
+    <section class="info">
+      <p class="name">{{ person.name }}</p>
+      <p class="email"><a href="mailto:{{ person.email }}">{{ person.email }}</a></p>
+      <p class="description">
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+        quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+        consequat.
+      </p>
+    </section>
+    <div style="clear: both"></div>
+  </li>
+  {% endfor %}
+</ul>

@@ -12,6 +12,7 @@ body {
 h1 {
   color: #059E9A;
   margin: 0 0 0.67em 0;
+  line-height: 1em;
 }
 h3 {
   width: 100%;
@@ -68,29 +69,34 @@ nav ul li a {
   background-color: #F5D8C4;
   float: left;
 }
-.person {
+ul.people {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+ul.people .person {
   width: 670px;
   margin-bottom: 24px;
   clear: both;
 }
-.person img {
+ul.people .person img {
   width: 216px;
   margin-right: 24px;
   float: left;
   border-left: 6px solid #E18280;
 }
-.person .info {
+ul.people .person .info {
   width: 424px;
   float: left;
 }
-.person .info .name {
+ul.people .person .info .name {
   font-weight: bold;
   color: #059E9A;
 }
-.person .info .email a {
+ul.people .person .info .email a {
   color: #059E9A;
 }
-.person .info .email a:visited {
+ul.people .person .info .email a:visited {
   color: #059E9A;
 }
 .hector-abruna .headline {
@@ -108,10 +114,12 @@ nav ul li a {
 .hector-abruna .headline a.email:visited {
   color: #059E9A;
 }
-.project {
-  margin: 24px 0;
+ul.projects {
+  margin: 0 0 0 24px;
+  padding: 0;
+  list-style: none;
 }
-.project .name a {
+ul.projects li .name a {
   color: #059E9A;
   font-weight: bold;
   font-size: 1.17em;

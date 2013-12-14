@@ -5,6 +5,49 @@ tab: projects
 
 <h1>Projects</h1>
 
+
+<h3>Batteries</h3>
+
+<ul class="projects">
+  {% for project in site.categories.batteries %}
+  <li class="project">
+    <p class="name"><a href="{{ project.url }}">{{ project.title }}</a></p>
+    <p>{{ project.excerpt | truncatewords:55 }}</p>
+  </li>
+  {% endfor %}
+</ul>
+
+
+<h3>Analytical Techniques</h3>
+
+<ul class="projects">
+  {% for post in site.categories.analytical_techniques %}
+  <li class="project">
+    <p class="name"><a href="#">{{ post.title }}</a></p>
+    <p>{{ post.excerpt }}</p>
+  </li>
+  {% endfor %}
+</ul>
+
+<h3>Fuel Cells</h3>
+
+
+{% for post in site.categories.fuel_cells %}
+  <p>HELLO WORLD</p>
+  <p>{{ post.title }}</p>
+  <p>{{ post.excerpt }}</p>
+{% endfor %}
+
+<h3>Molecular Electronics</h3>
+
+{% for post in site.categories.molecular_electronics %}
+  <p>HELLO WORLD</p>
+  <p>{{ post.title }}</p>
+  <p>{{ post.excerpt }}</p>
+{% endfor %}
+
+
+
 <section class="project">
   <p class="name"><a href="#">Electrocatalysis</a></p>
   <p>

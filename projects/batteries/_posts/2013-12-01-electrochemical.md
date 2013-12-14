@@ -1,11 +1,6 @@
 ---
 layout: project
-title: Electrochemical Performance for Ordered Intermetallics HELLO
-testsomething:
-  - name: hello
-    age: 23
-  - name: world
-    age: 24
+title: Electrochemical Performance for Ordered Intermetallics
 ---
 Polymer electrolyte membrane fuel cells (PEMFCs) that can run directly on liquid fuels of small organic molecules such as methanol, ethanol, formic acid (FA) and others, featuring higher volametric and gravimetric energy densities and better energy efficiency have recently attracted considerable interest as wide variety of power applications because of the simple handling of liquid fuels in storage and transfer (Fig. 1). In order to develop commercially available PEMFCs using liquid fuels which satisfy demands from both economical and environmental points of view, we must overcome difficulties in the development of electrocatalysts in the fuel cells. Serious losses of energy due to the slow kinetics in the oxidation of SOMs and gradual drops of catalytic activity by carbon monoxide (CO) poisoning occur in the anode process. The improvement of electrocatalytic activity and tolerance to CO in the electro-oxidation of SOMs with Pt-based bimetallic and trimetallic electrodes, and Pt-group metals has been attempted. For example, the Pt-Ru alloys are among some of the most efficient catalysts for oxidation of methanol and have shown relative tolerance to CO poisoning, increased current densities, and a decreased overpotential for fuel oxidation when compared to pure Pt. However, Pt-Ru alloy has inherently poorly defined surface structures, for example, with its surface sites occupied by Pt or Ru in a random fashion (Fig. 2-(a) and (c)).  In addition, the use of Ru-based alloys in place of pure Pt introduces a stability problem: during extended periods of operation, particularly under non-optimal usage (especially at high temperatures and current densities), the alloy surface becomes depleted of Ru. We have considered that these properties of ordered intermetallic compounds demand necessities for improving the performance of anode materials with bimetallic alloys. In the surface of PtPb and PtBi ordered intermetallic phases whose employments have been proposed by us for first time as anode electrocatalyst materials, atomically ordering of two element atoms (Fig. 2-(b) and (d)) for showing higher activity are meted.
 
