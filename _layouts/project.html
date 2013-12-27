@@ -3,6 +3,17 @@ layout: default
 tab: projects
 ---
 
+<section id="project">
 <h1>{{ page.title }}</h1>
 
 {{ content }}
+
+{% if page.citations %}
+  <h3>Citations</h3>
+  <ol class="citations">
+  {% for citation in page.citations %}
+    <li><cite>{{ citation }}</cite></li>
+  {% endfor %}
+  </ol>
+{% endif %}
+</section>

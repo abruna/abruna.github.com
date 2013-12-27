@@ -119,10 +119,31 @@ ul.projects {
   padding: 0;
   list-style: none;
 }
+ul.projects li {
+  margin-bottom: 12px;
+}
 ul.projects li .name a {
   color: #059E9A;
   font-weight: bold;
   font-size: 1.17em;
+}
+#project img {
+  background-color: white;
+  max-width: 670px;
+  margin: 12px auto;
+  display: block;
+}
+#project .caption {
+  font-style: italic;
+  text-align: center;
+  margin: 0 auto 12px auto;
+}
+#project ol.citations {
+  font-style: italic;
+  font-size: 75%;
+}
+#project p {
+  margin: 12px 0;
 }
 .publications {
   border-left: 6px solid #E18280;

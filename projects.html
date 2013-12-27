@@ -21,77 +21,34 @@ tab: projects
 <h3>Analytical Techniques</h3>
 
 <ul class="projects">
-  {% for post in site.categories.analytical_techniques %}
+  {% for project in site.categories.analytical_techniques %}
   <li class="project">
-    <p class="name"><a href="#">{{ post.title }}</a></p>
-    <p>{{ post.excerpt }}</p>
+    <p class="name"><a href="{{ project.url }}">{{ project.title }}</a></p>
+    <p>{{ project.excerpt | truncatewords:55 }}</p>
   </li>
   {% endfor %}
 </ul>
 
+
 <h3>Fuel Cells</h3>
 
+<ul class="projects">
+  {% for project in site.categories.fuel_cells %}
+  <li class="project">
+    <p class="name"><a href="{{ project.url }}">{{ project.title }}</a></p>
+    <p>{{ project.excerpt | truncatewords:55 }}</p>
+  </li>
+  {% endfor %}
+</ul>
 
-{% for post in site.categories.fuel_cells %}
-  <p>HELLO WORLD</p>
-  <p>{{ post.title }}</p>
-  <p>{{ post.excerpt }}</p>
-{% endfor %}
 
 <h3>Molecular Electronics</h3>
 
-{% for post in site.categories.molecular_electronics %}
-  <p>HELLO WORLD</p>
-  <p>{{ post.title }}</p>
-  <p>{{ post.excerpt }}</p>
-{% endfor %}
-
-
-
-<section class="project">
-  <p class="name"><a href="#">Electrocatalysis</a></p>
-  <p>
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-  </p>
-</section>
-
-<section class="project">
-  <p class="name"><a href="#">Combinatorial</a></p>
-  <p>
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-  </p>
-</section>
-
-<section class="project">
-  <p class="name"><a href="#">Li-ion Batteries</a></p>
-  <p>
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-  </p>
-</section>
-
-<section class="project">
-  <p class="name"><a href="#">Microfluidics</a></p>
-  <p>
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-  </p>
-</section>
+<ul class="projects">
+  {% for project in site.categories.molecular_electronics %}
+  <li class="project">
+    <p class="name"><a href="{{ project.url }}">{{ project.title }}</a></p>
+    <p>{{ project.excerpt | truncatewords:55 }}</p>
+  </li>
+  {% endfor %}
+</ul>
