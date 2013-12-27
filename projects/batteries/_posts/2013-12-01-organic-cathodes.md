@@ -15,9 +15,9 @@ Spectroelectrochemisty is one of the techniques employed to probe battery compon
 
 ![Spectroelectrochemisty](/images/projects/organic_cathodes/spectroelectrochemisty.png)
 
-<div class="caption">
+<p class="caption">
 UV-Vis Spectroelectrochemistry of a small molecule in a thin layer cell. Monitoring the peak change as a function of the applied electrochemical potential.
-</div>
+</p>
 
 ## Raman
 
