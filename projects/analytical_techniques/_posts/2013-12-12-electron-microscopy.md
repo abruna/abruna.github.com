@@ -21,16 +21,19 @@ An ex-situ location tracking technique is performed for studying catalyst sinter
 In-situ imaging through liquids is a promising approach for exploring electrochemical processes that typically occur in liquid environments.  Recent advances in microfluidic cells for use in STEM have enabled nanometer-scale imaging through liquids in real time (Ref 13). Developments in holder circuitry also provide the groundwork for in-situ electrochemical studies for fuel cell and battery materials (Fig.2). One example of performing in-situ EELS and energy filtered TEM (EFTEM) has enabled the real time imaging the lithiation and delithiation process of LiFePO<sub>4</sub> in a battery full cell (Fig.3). 
 
 ![Figure 1](/images/projects/electron_microscopy/figure_1.png)
+
 <p class="caption">
 Fig.1. 3-D tomographic reconstruction of Pt-Co fuel cell catalyst before (yellow) and after (red) 30,000 electrochemical cycles between +0.6 V to +1.0 V (vs.RHE). Coalescence is revealed as the major degradation mechanism. Figure reproduced from Ref.1.
 </p>
 
 ![Figure 2](/images/projects/electron_microscopy/figure_2.png)
+
 <p class="caption">
 Fig.2 Schematics of the in-situ electrochemical (S)TEM setup. Figure reproduced from Ref.13.
 </p>
 
 ![Figure 3](/images/projects/electron_microscopy/figure_3.png)
+
 <p class="caption">
 Fig3. STEM-EELS and EFTEM of LiFePO<sub>4</sub> nanoparticles in liquids. (a) Core-loss STEM-EELS on and off a nanoparticle, where the Fe L-edge is seen on the particle and the O K-edge is seen both on the particle and in the solution. EFTEM with a 5 eV energy selecting slit centered around (b) 0 eV where the liquid dominates the signal, (c) 25 eV at the plasmon peak of the liquid, where the liquid dominates the signal, (d) 5 eV in the optical gap of the liquid showing FePO4 transitions, (e) 10 eV, with a low background signal from the liquid and a slightly stronger signal from LiFePO<sub>4</sub> than FePO<sub>4</sub>, and (f) an overlay of the 5 eV image in green highlighting the FePO<sub>4</sub> and the 10 eV image in red showing the LiFePO<sub>4</sub>. Figure reproduced from Ref. 13.
 </p>
