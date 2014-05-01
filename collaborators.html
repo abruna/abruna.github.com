@@ -3,3 +3,27 @@ layout: default
 tab: collaborators
 ---
 <h1>Collaborators</h1>
+
+<h3>Funding Sources</h3>
+
+<ul class="collaborators">
+  {% for collab in site.data.collaborators.funding_sources %}
+    <li class="research_center"><a href="{{ collab.url }}"><img src="/images/collaborators/{{ collab.photo }}" /></a></li>
+  {% endfor %}
+</ul>
+
+<h3>Research Centers</h3>
+
+<ul class="collaborators">
+  {% for collab in site.data.collaborators.research_centers %}
+    <li class="research_center"><a href="{{ collab.url }}"><img src="/images/collaborators/{{ collab.photo }}" /></a></li>
+  {% endfor %}
+</ul>
+
+<h3>Cornell Research Groups</h3>
+
+<ul class="collaborators">
+  {% for collab in site.data.collaborators.cornell_collabs %}
+    <li><a href="{{ collab.url }}">{{ collab.name }} &raquo;</a></li>
+  {% endfor %}
+</ul>

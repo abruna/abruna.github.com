@@ -204,3 +204,17 @@ ul.projects li .name a {
   -ms-filter: progid:DXImageTransform.Microsoft.Alpha(opacity=90);
   filter: alpha(opacity=90);
 }
+ul.collaborators {
+  list-style-type: none;
+  padding-left: 0;
+}
+ul.collaborators .research_center {
+  text-align: center;
+}
+ul.collaborators li {
+  padding-bottom: 12px;
+}
+ul.collaborators li a {
+  font-weight: bold;
+  color: #059E9A;
+}
