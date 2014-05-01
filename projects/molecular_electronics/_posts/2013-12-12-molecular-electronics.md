@@ -2,16 +2,16 @@
 layout: project
 title: Molecular Electronics
 citations:
-- "S. Flores-Torres, G. R. Hutchison, L. J. Soltzberg, and H. D. Abru&ntilde;a, J. Am. Chem. Soc. 2006, 128, 1513-1522."
-- "Y. W. Zhong, N. Vila, J. C. Henderson, and H. D. Abru&ntilde;a. Transition-Metal Tris-Bipyridines Containing Three Dithienylcyclopentenes: Synthesis, Photochromic, and Electrochromic Properties.  Inorg. Chem, 2009, 48, 7080-7085."
-- "E. S. Tam, J. J. Parks, W. W. Shum, Y.-W. Zhong, M. Santiago-Berrios, X. Zheng, W. Yang, G. K.-L. Chan, H. D Abru&ntilde;a, and D. C. Ralph.  Single-Molecule Conductance of Pyridine-Terminated Dithienylethene Switch Molecules.  ACS Nano 2011, 5, 5115-5123"
-- "J. E. Grose, E. S. Tam, C. Timm, M. Scheloske, B. Ulgut, J. J. Parks, H. D. Abru&ntilde;a, W. Harneit, and D. C. Ralph. Tunneling spectra of individual magnetic endofullerene molecules.  Nat. Mater. 2008,7, 884-889."
-- "J. J. Parks, A. R. Champagne, G. R. Hutchison, S. Flores-Torres, H. D. Abru&ntilde;a, and D. C. Ralph.  Transport through metallic nanogaps in an in-plane three-terminal geometry. Phys. Rev. Lett. 2007, 99, 026601."
-- "W. Li, C. Tan, M. A. Lowe, H. D. Abru&ntilde;a, and D. C. Ralph.  Electrochemistry of Individual Monolayer Graphene Sheets.  ACS Nano  2011, 5, 2264-2270."
-- "J. A. Mann, J. Rodriguez-Lopez, H. D. Abru&ntilde;a, and W. R. Dichtel.  Multivalent Binding Motifs for the Noncovalent Functionalization of Graphene.  2011, 133, 17614-17617."
-- "J. Rodr&iacute;guez-L&oacute;pez, N. L. Ritzert, J. A. Mann, C. Tan, W. R. Dichtel, and H. D. Abru&ntilde;a.  Quantification of the Surface Diffusion of Tripodal Binding Motifs on Graphene using Scanning Electrochemical Microscopy.  J. Am. Chem. Soc. 2012, 134, 6224-6236."
-- "N. L. Ritzert, J. Rodr&iacute;guez-L&oacute;pez, C. Tan, and H. D. Abru&ntilde;a.  Kinetics of Interfacial Electron Transfer at Single Layer Graphene Electrodes in Aqueous and Non-Aqueous Solutions.  Langmuir 2013, 29, 1683-1694."
-- "C. Tan, J. Rodr&iacute;guez-L&oacute;pez, J. J. Parks, N. L. Ritzert, D. C. Ralph, and H. D. Abru&ntilde;a.  Reactivity of Monolayer Chemical Vapor Deposited Graphene Imperfections Studied using Scanning Electrochemical Microscopy.  ACS Nano 2012, 6, 3070-3079."
+- "S. Flores-Torres, G. R. Hutchison, L. J. Soltzberg, and H. D. Abruña, J. Am. Chem. Soc. 2006, 128, 1513-1522."
+- "Y. W. Zhong, N. Vila, J. C. Henderson, and H. D. Abruña. Transition-Metal Tris-Bipyridines Containing Three Dithienylcyclopentenes: Synthesis, Photochromic, and Electrochromic Properties.  Inorg. Chem, 2009, 48, 7080-7085."
+- "E. S. Tam, J. J. Parks, W. W. Shum, Y.-W. Zhong, M. Santiago-Berrios, X. Zheng, W. Yang, G. K.-L. Chan, H. D Abruña, and D. C. Ralph.  Single-Molecule Conductance of Pyridine-Terminated Dithienylethene Switch Molecules.  ACS Nano 2011, 5, 5115-5123"
+- "J. E. Grose, E. S. Tam, C. Timm, M. Scheloske, B. Ulgut, J. J. Parks, H. D. Abruña, W. Harneit, and D. C. Ralph. Tunneling spectra of individual magnetic endofullerene molecules.  Nat. Mater. 2008,7, 884-889."
+- "J. J. Parks, A. R. Champagne, G. R. Hutchison, S. Flores-Torres, H. D. Abruña, and D. C. Ralph.  Transport through metallic nanogaps in an in-plane three-terminal geometry. Phys. Rev. Lett. 2007, 99, 026601."
+- "W. Li, C. Tan, M. A. Lowe, H. D. Abruña, and D. C. Ralph.  Electrochemistry of Individual Monolayer Graphene Sheets.  ACS Nano  2011, 5, 2264-2270."
+- "J. A. Mann, J. Rodriguez-Lopez, H. D. Abruña, and W. R. Dichtel.  Multivalent Binding Motifs for the Noncovalent Functionalization of Graphene.  2011, 133, 17614-17617."
+- "J. Rodríguez-López, N. L. Ritzert, J. A. Mann, C. Tan, W. R. Dichtel, and H. D. Abruña.  Quantification of the Surface Diffusion of Tripodal Binding Motifs on Graphene using Scanning Electrochemical Microscopy.  J. Am. Chem. Soc. 2012, 134, 6224-6236."
+- "N. L. Ritzert, J. Rodríguez-López, C. Tan, and H. D. Abruña.  Kinetics of Interfacial Electron Transfer at Single Layer Graphene Electrodes in Aqueous and Non-Aqueous Solutions.  Langmuir 2013, 29, 1683-1694."
+- "C. Tan, J. Rodríguez-López, J. J. Parks, N. L. Ritzert, D. C. Ralph, and H. D. Abruña.  Reactivity of Monolayer Chemical Vapor Deposited Graphene Imperfections Studied using Scanning Electrochemical Microscopy.  ACS Nano 2012, 6, 3070-3079."
 ---
 Molecular electronics applies a "bottom-up" approach to electronic materials, allowing for the study of current flow at small length scales.  Unlike conventional silicon-based computer chips, which have become smaller through "top-down" improvements in the ability to define features using lithography and etching processes, molecular electronics seeks to build functional device elements using molecules, which represent the ultimate limit in the miniaturization of devices.  
 
