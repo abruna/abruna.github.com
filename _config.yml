@@ -2,3 +2,4 @@ safe: true
 lsi: false
 pygments: true
 exclude: [ "README.md", "abruna.sublime-project", "abruna.sublime-workspace" ]
+markdown: kramdown
