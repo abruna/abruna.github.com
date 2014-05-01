@@ -4,25 +4,21 @@ tab: publications
 ---
 <h1>Publications</h1>
 
-<h4>2013</h4>
-
 <section class="publications">
   <ol>
-    <li class="publication">
-      <p class="title">Single-Molecule Conductance of Pyridine-Terminated Dithienylethene Switch Molecules</p>
-      <p class="description">Tam, ES; Parks, JJ; Shum, WW; Zhong, YW; Santiago-Berrios, MB; Zheng, X; Yang, W; Chan, GKL; Abruña, HD; Ralph, DC, ACS Nano, Article ASAP, DOI: 10.1021/nn201199b</p>
-    </li>
-
-    <li class="publication">
-      <p class="title">Alternative Oxidants for High-Power Fuel Cells Studied by Rotating Disk Electrode (RDE) Voltammetry at Pt, Au, and Glassy Carbon Electrodes</p>
-      <p class="description">Finkelstein, DA; Kirtland, JD; Da Mota, N; Stroock, AD; Abruña, HD, J. Phys. Chem. C, 2011, 115, 6073-6084, DOI: 10.1021/jp1082505</p>
-    </li>
+    {% for publication in site.data.publications %}
+      <li class="publication">
+        <p class="title">{{ publication.title }}</p>
+        <p class="description">{{ publication.description }}</p>
+      </li>
+    {% endfor %}
   </ol>
 </section>
 
-<h4>Patents</h4>
-<ul class="patents">
+<h1>Patents</h1>
+<ol class="patents">
 {% for patent in site.data.patents %}
   <li>{{ patent }}</li>
 {% endfor %}
-</ul>
+</ol>
+

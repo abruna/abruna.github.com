@@ -145,10 +145,7 @@ ul.projects li .name a {
 #project p {
   margin: 12px 0;
 }
-.publications {
-  border-left: 6px solid #E18280;
-}
-.publication .title {
+.publications .publication .title {
   font-weight: bold;
 }
 .photobox {
