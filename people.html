@@ -26,7 +26,7 @@ tab: people
 <ul class="people">
   {% for person in site.data.postdocs | sort %}
   <li class="person">
-    <img src="/images/{{ person.photo }}">
+    <img src="/images/people/{{ person.photo }}">
     <section class="info">
       <p class="name">{{ person.name }}</p>
       <p class="email"><a href="mailto:{{ person.email }}">{{ person.email }}</a></p>
@@ -47,7 +47,7 @@ tab: people
 <ul class="people">
   {% for person in site.data.grads | sort %}
   <li class="person">
-    <img src="/images/{{ person.photo }}">
+    <img src="/images/people/{{ person.photo }}">
     <section class="info">
       <p class="name">{{ person.name }}</p>
       <p class="email"><a href="mailto:{{ person.email }}">{{ person.email }}</a></p>
