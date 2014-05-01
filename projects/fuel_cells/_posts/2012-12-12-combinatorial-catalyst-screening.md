@@ -1,6 +1,7 @@
 ---
 layout: project
 title: Combinatorial Catalyst Screening
+excerpt: ""
 citations:
   - "Liu, G.C-K.; Sanderson, R.J.; Vernstrom, G.; Stevens, D.A.; Atanasoski, R.T.; Debe, M.K.; Dahn, J.R. J. Electrochem.Soc., 2010, 157 (2) B207-B214."
   - "Gregoire, J.M.; van Dover, R.B.; Jin, J.; DiSalvo, F.J.; Abruña, H.D. Rev. Sci. Instrum. 2007, 78, 072212."

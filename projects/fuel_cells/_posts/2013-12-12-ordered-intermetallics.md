@@ -1,9 +1,9 @@
 ---
 layout: project
 title: Ordered Intermetallics
+excerpt: ""
 citations:
   - "Wang, D.; Xin, H. L.; Hovden, R.; Wang, H.; Yu, Y.; Muller, D. A.; DiSalvo, F. J.; Abruña, H. D. Nature Materials 2013, 12, 81–87."
-excerpt: "excerpt goes here!"
 ---
 ## Fuel Cell
 

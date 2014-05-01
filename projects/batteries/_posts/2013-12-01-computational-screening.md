@@ -1,6 +1,7 @@
 ---
 layout: project
 title: Computational Screening
+excerpt: ""
 citations:
   - "Henderson, J. C.; Kiya, Y.; Hutchison, G. R.; Abruña, H. D. J. Phys. Chem. C, 2008, 112, 3989"
   - "Rodriguez-Calero, G. G.; Lowe M. A.; Kiya, Y.; Abruña, H. D. J. Phys. Chem. C 2010, 114, 6169"

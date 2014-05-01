@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Organic Cathodes
-excerpt: excerpt goes here!
+excerpt: ""
 ---
 ## Organic Cathodes
 

@@ -1,6 +1,7 @@
 ---
 layout: project
 title: Electron Microscopy
+excerpt: ""
 citations:
   - "Nano Letters, 2012, 12 (9), 4417-4423."
   - "Nature Materials, 2013, (12), 81–87."

@@ -1,6 +1,7 @@
 ---
 layout: project
 title: Molecular Electronics
+excerpt: ""
 citations:
 - "S. Flores-Torres, G. R. Hutchison, L. J. Soltzberg, and H. D. Abruña, J. Am. Chem. Soc. 2006, 128, 1513-1522."
 - "Y. W. Zhong, N. Vila, J. C. Henderson, and H. D. Abruña. Transition-Metal Tris-Bipyridines Containing Three Dithienylcyclopentenes: Synthesis, Photochromic, and Electrochromic Properties.  Inorg. Chem, 2009, 48, 7080-7085."

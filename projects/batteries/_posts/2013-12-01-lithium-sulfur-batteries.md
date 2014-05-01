@@ -1,6 +1,7 @@
 ---
 layout: project
 title: Lithium-Sulfur Batteries
+excerpt: ""
 citations:
   - "Jie Gao, Michael A. Lowe, Yasuyuki Kiya, H&eacute;ctor D. Abruña. Effects of liquid electrolytes on the charge-discharge performance of rechargeable lithium/sulfur batteries: electrochemical and in-situ X-ray absorption spectroscopic studies. J. Phys. Chem. C, 2011, 115, 25132-25137."
 ---
