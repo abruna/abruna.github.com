@@ -114,6 +114,10 @@ ul.people .person .info .email a:visited {
 .hector-abruna .headline a.email:visited {
   color: #059E9A;
 }
+a.past_members {
+  font-weight: bold;
+  color: #059E9A;
+}
 ul.projects {
   margin: 0 0 0 24px;
   padding: 0;

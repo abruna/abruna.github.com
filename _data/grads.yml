@@ -19,13 +19,13 @@
 - name: Katie Silberstein
   email: kes272@cornell.edu
   office: 284
-  photo: cornell.png
+  photo: katie_silberstein.jpg
   description: "Katie conducts operando X-ray absorption spectroscopy and X-ray diffraction studies to analyze molecules, materials, and systems relevant to lithium-ion batteries.  She hopes to elucidate the molecular mechanisms that lead to bulk charge storage within novel materials.  Outside of lab, Katie plays trumpet in the Ithaca Concert Band."
 
 - name: Abby Van Wassen
   email: arv45@cornell.edu
   office: 202
-  photo: cornell.png
+  photo: abby_van_wassen.jpg
   description: "Abby's work deals mainly with the study of electrocatalysis with respect to fuel cells. In particular, she studies cathode materials using combinatorial and electrochemical techniques, mainly rotating disk electrode voltammetry (RDE), for characterization and analysis, and a sputtering chamber to grow the combinatorial films of interest. When she's not doing chemistry, she likes to cook, read, and knit."
 
 - name: Tam Truong
@@ -34,23 +34,11 @@
   photo: cornell.png
   description: "Tam is a joint student between the Coates and Abruna research groups, and her projects incorporate the expertise of both groups.  She synthesizes redox active polymers for electrochemical energy storage and characterize their chemical and electrochemical properties."
 
-- name: Jie Gao
-  email: jg576@cornell.edu
-  office: 284
-  photo: jie_gao.jpg
-  description: "Jie focuses on various battery related research, including inorganic/organic electrode materials, electrolytes, etc. His current projects include development of transition metal oxides as anodes for lithium batteries, electrolytes optimization for lithium sulfur batteries, and organic polymer cathodes (like PDMcT etc.) for lithium batteries and supercapacitors. Besides research, he is interested in Chinese traditional culture and art like brush painting, handwriting, etc."
-
 - name: Ryo Wakabayashi
   email: rhw224@cornell.edu
   office: 202
-  photo: cornell.png
+  photo: ryo_ wakabayashi.jpg
   description: "Ryo currently works on both fuel cell and battery related projects, with a healthy mix of synthetic and analytical work. He believes that “play ball” is the most amazing two-word phrase in English, and loves reading about sports statistics, politics, and other nerdy topics in his spare time. "
-
-- name: Jimmy John
-  email: jj383@cornell.edu
-  office: 0
-  photo: cornell.png
-  description: "Jimmy's research is on the analytical studies of electrocatalysts and anion-exchange membrane for application in alkaline fuel cells. Research Interests: Electrocatalysis, fuel cells, small organic molecule oxidation"
 
 - name: Rebecca Potash
   email: rap335@cornell.edu
@@ -63,12 +51,6 @@
   office: 284
   photo: cornell.png
   description: "Gabriel's research focuses on the characterization of materials for electrochemical energy storage applications. Specifically, he investigates the electrochemical reactions of conducting polymers, elucidating their reaction mechanisms, studying charge transfer kinetics and developing methodologies to incorporate them in functional devices. On his spare time, he plays intramural sports, enjoys watching profesional sports, and doing outreach activities."
-
-- name: Roxana Amirahmadi
-  email: roxyamirahmadi@gmail.com
-  office: 218
-  photo: cornell.png
-  description: "I am a senior undergraduate studying chemistry and chemical biology in the College of Arts and Sciences, and I am working on a project aimed to develop a biosensor that electrochemically detects avian flu antibodies. Using QCM frequency analysis and electrochemical detection of hydrogen peroxide produced by antibodies bound to specialized polymer brushes, we can detect trace amounts of antibody in any solution, and by extension in the blood serum of an affected patient. We hope that this platform for antibody detection can be translated into the development of a portable battery-powered microfluidic device that can detect and diagnose avian flu infection in patients living in remote and socioeconomically marginalized parts of the world where laboratories or hospitals are out of reach. I am particularly interested in the medical applications of electrochemistry because I am pre-med and hope to practice and research developmental or reproductive endocrinology as a future doctor. Beyond my research and studies, my passions lie in playing recreational badminton and reading, debating, and writing about political and social issues."
 
 - name: James Pastore
   email: jpp236@cornell.edu
@@ -88,21 +70,9 @@
   photo: cornell.png
   description: "My research focuses on the use and development of advanced scanning transmission electron microscopy (STEM) techniques, especially in-situ methods, for energy applications. Specifically, the intent is to understand materials properties and reaction mechanisms of fuel cell catalysts and novel battery electrode materials, with the intent of enhancing the performance of practical devices."
 
-- name: James McKone
-  email: jrm545@cornell.edu
-  office: 218
-  photo: james_mckone.jpg
-  description: "James completed his graduate studies at the California Institute of Technology in the Spring of 2013, working with Harry Gray and Nate Lewis in the field of solar fuels.His research in the Abruña and DiSalvo groups focuses on integrating flow battery chemistry with solar light absorbers. In his free time, James loves reading, binge-watching Netflix, playing music, and taking on random personal and household projects."
-
 - name: Johary Rivera-Meléndez
   email: jr858@cornell.edu
   office: 218
   photo: johary_rivera.jpg
   description: "Johary focuses on the characterization of anion-exchange membranes for application in alkaline fuel cells. She enjoys to cook and bake on her spare time."
-
-- name: Hongsen Wang
-  email: hw99@cornell.edu
-  office: PSB 216
-  photo: cornell.png
-  description: "Hongsen focuses on developing differential electrochemical mass spectrometry (DEMS) techniques and in-situ electrochemical FTIR spectroscopy to characterize and evaluate fuel cell and lithium ion battery electrode materials and electrolytes, exploring new electrode materials and improving the efficiency and stability of fuel cells and lithium ion batteries. He is also interested in mechanistic studies of small molecule oxidation and oxygen reduction reactions on Pt based catalysts, which are fuel cell related electrode reactions. Currently he mainly focus on profoundly understanding of CO electrocatalytic oxidation mechanism on Pt binary catalysts in acidic and basic media using in-situ techniques such as DEMS and FTIR , as well as DFT calculation and kinetic Monte Carlo simulations. In his spare time, he enjoys playing with his kids."
 

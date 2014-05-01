@@ -1,0 +1,23 @@
+---
+layout: default
+tab: people
+---
+<h1>Past Members</h1>
+
+<ul class="people">
+  {% for person in site.data.past_members | sort %}
+  <li class="person">
+    <img src="/images/people/{{ person.photo }}">
+    <section class="info">
+      <p class="name">{{ person.name }}</p>
+      <p class="email"><a href="mailto:{{ person.email }}">{{ person.email }}</a></p>
+      <p class="description">
+        {{ person.description }}
+      </p>
+    </section>
+    <div style="clear: both"></div>
+  </li>
+  {% endfor %}
+</ul>
+
+<a href="/people.html" class="past_members">&laquo; Back to Current Members</a>
