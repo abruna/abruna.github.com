@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Scanning Electrochemistry Microscopy
+title: Scanning Electrochemical Microscopy
 citations:
   - "N. L. Ritzert, J. Rodríguez-López, C. Tan, and H. D. Abruña.  Kinetics of Interfacial Electron Transfer at Single Layer Graphene Electrodes in Aqueous and Non-Aqueous Solutions.  Langmuir 2013, 29, 1683-1694."
   - "E. D. Rus, H. Wang, A. E. Legard, N. L. Ritzert, R. B. Van Dover, and H. D. Abruña.  An Exchangeable-Tip Scanning Probe Instrument for the Analysis of Combinatorial Libraries of Electrocatalysts.  Rev.Sci. Instrum. 2013, 84,024101."
