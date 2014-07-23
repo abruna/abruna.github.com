@@ -52,4 +52,22 @@ tab: people
   {% endfor %}
 </ul>
 
+<h3>Undergraduate Students</h3>
+
+<ul class="people">
+  {% for person in site.data.undergrads | sort %}
+  <li class="person">
+    <img src="/images/people/{{ person.photo }}">
+    <section class="info">
+      <p class="name">{{ person.name }}</p>
+      <p class="email"><a href="mailto:{{ person.email }}">{{ person.email }}</a></p>
+      <p class="description">
+        {{ person.description }}
+      </p>
+    </section>
+    <div style="clear: both"></div>
+  </li>
+  {% endfor %}
+</ul>
+
 <a href="/people/past_members.html" class="past_members">Past Members &raquo;</a>
