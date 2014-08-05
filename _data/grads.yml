@@ -10,17 +10,17 @@
   photo: katie_silberstein.jpg
   description: "Katie conducts operando X-ray absorption spectroscopy and X-ray diffraction studies to analyze molecules, materials, and systems relevant to lithium-ion batteries.  She hopes to elucidate the molecular mechanisms that lead to bulk charge storage within novel materials.  Outside of lab, Katie plays trumpet in the Ithaca Concert Band."
 
-- name: Abby Van Wassen
-  email: arv45@cornell.edu
-  office: 202
-  photo: abby_van_wassen.jpg
-  description: "Abby's work deals mainly with the study of electrocatalysis with respect to fuel cells. In particular, she studies cathode materials using combinatorial and electrochemical techniques, mainly rotating disk electrode voltammetry (RDE), for characterization and analysis, and a sputtering chamber to grow the combinatorial films of interest. When she's not doing chemistry, she likes to cook, read, and knit."
-
 - name: Tam Truong
   email: ttt45@cornell.edu
   office:
   photo: cornell.png
   description: "Tam is a joint student between the Coates and Abruna research groups, and her projects incorporate the expertise of both groups.  She synthesizes redox active polymers for electrochemical energy storage and characterize their chemical and electrochemical properties."
+
+- name: Abby Van Wassen
+  email: arv45@cornell.edu
+  office: 202
+  photo: abby_van_wassen.jpg
+  description: "Abby's work deals mainly with the study of electrocatalysis with respect to fuel cells. In particular, she studies cathode materials using combinatorial and electrochemical techniques, mainly rotating disk electrode voltammetry (RDE), for characterization and analysis, and a sputtering chamber to grow the combinatorial films of interest. When she's not doing chemistry, she likes to cook, read, and knit."
 
 - name: Ryo Wakabayashi
   email: rhw224@cornell.edu
@@ -39,12 +39,6 @@
   office: 202
   photo: cornell.png
   description: "James’ primary area of interest is the use of inorganic conversion materials as electrodes in lithium ion batteries. More specifically, he is studying the conversion mechanisms of these materials in order to better understand their behavior under operating conditions. To observe these mechanisms, a combination of in situ solid state nuclear magnetic resonance (NMR) and in operando X-ray techniques is utilized. In his free time, James enjoys playing and watching sports like volleyball, basketball, and football."
-
-- name: Giovanni Ramirez
-  email: rmgiovanni@gmail.com
-  office: PSB 269
-  photo: cornell.png
-  description: "Giovanni's interests range from developing pyrochlore catalysts for oxygen reduction reactions and understanding crystallization processes to extend the range of metals and inorganic materials that form pyrochlores and study its reactivity towards oxygen reduction reactions (ORR) for applications in energy generation. As a further ambition he would like to design micro bio devices to use as sensors for a quantitative understanding of physiological phenomena through electrochemical methods."
 
 - name: Johary Rivera-Meléndez
   email: jr858@cornell.edu
