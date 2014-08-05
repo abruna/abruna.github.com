@@ -52,6 +52,24 @@ tab: people
   {% endfor %}
 </ul>
 
+<h3>Visiting Researchers</h3>
+
+<ul class="people">
+  {% for person in site.data.visiting_researchers | sort %}
+  <li class="person">
+    <img src="/images/people/{{ person.photo }}">
+    <section class="info">
+      <p class="name">{{ person.name }}</p>
+      <p class="email"><a href="mailto:{{ person.email }}">{{ person.email }}</a></p>
+      <p class="description">
+        {{ person.description }}
+      </p>
+    </section>
+    <div style="clear: both"></div>
+  </li>
+  {% endfor %}
+</ul>
+
 <h3>Undergraduate Students</h3>
 
 <ul class="people">
