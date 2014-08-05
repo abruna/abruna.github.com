@@ -4,12 +4,6 @@
   photo: kenneth_hernandez.jpg
   description: "Kenny works on a systematic study of different families of Organic Molecules (OM) as cathode materials for energy storage applications. The study consist of two steps: computational screening/designing of new OM and electrochemical characterization. He uses computational chemistry to predict the formal potentials and identify the most promising candidates before the synthesis and characterization (using electrochemical techniques) of the selected molecules. As a personal detail Kenny enjoys dancing latin music specially salsa."
 
-- name: Nicole Ritzert
-  email: nlr39@cornell.edu
-  office: 218
-  photo: nicole_ritzert.jpg
-  description: "Nikki has many interests in the Abruña group. Her main project is using scanning probe techniques, namely scanning electrochemical microscopy (SECM) and scanning tunneling microscopy (STM), to investigate charge transfer and molecular transport properties of single layer graphene electrodes. She collaborates with the Brock (Applied Engineering and Physics) group at the Cornell High Energy Synchrotron Source (CHESS) on in situ surface x ray diffraction measurements of catalyst materials. She also collaborate with the Baird (Chemistry and Chemical Biology) and Ober (Chemical Engineering) groups in developing a biosensor for the avian flu. She enjoys working in the machine shop and making small equipment parts."
-
 - name: Katie Silberstein
   email: kes272@cornell.edu
   office: 284
@@ -39,12 +33,6 @@
   office: 218
   photo: rebecca_potash.jpg
   description: "Rebecca focuses on utilizing a variety of known electroactive materials for electrical energy storage (EES) in new and exciting platforms.  She currently focuses on redox flow batteries (RFB's), an EES device in which the cathode and anode are redox active solutions, the catholye and anolyte respectively. She also studies modified electrodes for pseudocapacitors. When not in the lab she enjoys windsurfing and hiking in the summer, skiing in the winter and glassblowing all year round."
-
-- name: Gabriel G. Rodríguez-Calero
-  email: gr235@cornell.edu
-  office: 284
-  photo: cornell.png
-  description: "Gabriel's research focuses on the characterization of materials for electrochemical energy storage applications. Specifically, he investigates the electrochemical reactions of conducting polymers, elucidating their reaction mechanisms, studying charge transfer kinetics and developing methodologies to incorporate them in functional devices. On his spare time, he plays intramural sports, enjoys watching profesional sports, and doing outreach activities."
 
 - name: James Pastore
   email: jpp236@cornell.edu
