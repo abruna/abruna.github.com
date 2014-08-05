@@ -24,7 +24,7 @@
 
 - name: Tam Truong
   email: ttt45@cornell.edu
-  office: 
+  office:
   photo: cornell.png
   description: "Tam is a joint student between the Coates and Abruna research groups, and her projects incorporate the expertise of both groups.  She synthesizes redox active polymers for electrochemical energy storage and characterize their chemical and electrochemical properties."
 
@@ -70,3 +70,14 @@
   photo: johary_rivera.jpg
   description: "Johary focuses on the characterization of anion-exchange membranes for application in alkaline fuel cells. She enjoys to cook and bake in her spare time."
 
+- name: Dong Ren
+  email: dr469@cornell.edu
+  office: 296
+  photo: cornell.png
+  description: "Dong’s research mainly focuses on the preparation and characterization of energy storage materials with high specific energy and high power capability for lithium ion batteries. And he is also interested in using advanced electron microscopy techniques for electrochemical energy application. In his free time, Dong likes cooking and playing basketball."
+
+- name: Luxi Shen
+  email: ls735@cornell.edu
+  office: 218
+  photo: cornell.png
+  description: "Luxi's research focuses on developing organic/polymeric materials for energy storage applications. In particular, Luxi focuses on synthesizing organic cathode materials via electrochemical means, and then electrochemically characterizing these materials. In her spare time, Luxi enjoys a good long run, good music, and good food."
