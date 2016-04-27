@@ -1,21 +1,3 @@
-- name: Kenneth Hernandez
-  email: kh473@cornell.edu
-  office: 284
-  photo: kenneth_hernandez.jpg
-  description: "Kenny works on a systematic study of different families of Organic Molecules (OM) as cathode materials for energy storage applications. The study consist of two steps: computational screening/designing of new OM and electrochemical characterization. He uses computational chemistry to predict the formal potentials and identify the most promising candidates before the synthesis and characterization (using electrochemical techniques) of the selected molecules. As a personal detail Kenny enjoys dancing latin music specially salsa."
-
-- name: Katie Silberstein
-  email: kes272@cornell.edu
-  office: 284
-  photo: katie_silberstein.jpg
-  description: "Katie conducts operando X-ray absorption spectroscopy and X-ray diffraction studies to analyze molecules, materials, and systems relevant to lithium-ion batteries.  She hopes to elucidate the molecular mechanisms that lead to bulk charge storage within novel materials.  Outside of lab, Katie plays trumpet in the Ithaca Concert Band."
-
-- name: Tam Truong
-  email: ttt45@cornell.edu
-  office:
-  photo: tam_truong.jpg
-  description: "Tam is a joint student between the Coates and Abruna research groups, and her projects incorporate the expertise of both groups.  She synthesizes redox active polymers for electrochemical energy storage and characterize their chemical and electrochemical properties."
-
 - name: Abby Van Wassen
   email: arv45@cornell.edu
   office: 202
