@@ -4,23 +4,11 @@
   photo: james_mckone.jpg
   description: "James completed his graduate studies at the California Institute of Technology in the Spring of 2013, working with Harry Gray and Nate Lewis in the field of solar fuels.His research in the Abruña and DiSalvo groups focuses on integrating flow battery chemistry with solar light absorbers. In his free time, James loves reading, binge-watching Netflix, playing music, and taking on random personal and household projects."
 
-- name: Jie Gao
-  email: jg576@cornell.edu
-  office: 284
-  photo: jie_gao.jpg
-  description: "Jie focuses on various battery related research, including inorganic/organic electrode materials, electrolytes, etc. His current projects include development of transition metal oxides as anodes for lithium batteries, electrolytes optimization for lithium sulfur batteries, and organic polymer cathodes (like PDMcT etc.) for lithium batteries and supercapacitors. Besides research, he is interested in Chinese traditional culture and art like brush painting, handwriting, etc."
-
 - name: Hongsen Wang
   email: hw99@cornell.edu
   office: PSB 216
   photo: cornell.png
   description: "Hongsen focuses on developing differential electrochemical mass spectrometry (DEMS) techniques and in-situ electrochemical FTIR spectroscopy to characterize and evaluate fuel cell and lithium ion battery electrode materials and electrolytes, exploring new electrode materials and improving the efficiency and stability of fuel cells and lithium ion batteries. He is also interested in mechanistic studies of small molecule oxidation and oxygen reduction reactions on Pt based catalysts, which are fuel cell related electrode reactions. Currently he mainly focus on profoundly understanding of CO electrocatalytic oxidation mechanism on Pt binary catalysts in acidic and basic media using in-situ techniques such as DEMS and FTIR , as well as DFT calculation and kinetic Monte Carlo simulations. In his spare time, he enjoys playing with his kids."
-
-- name: Gabriel G. Rodríguez-Calero
-  email: gr235@cornell.edu
-  office: ???
-  photo: gabriel_rodríguez-calero.jpg
-  description: "Gabriel G. Rodríguez-Calero is currently a post-doctoral associate in the Department of Chemistry and Chemical Biology. In addition, he is pursuing his entrepreneurial interests by incubating a start-up company, ecolectro, exploring the commercialization of a revolutionary fuel cell membrane technology that could dramatically reduce costs thus enabling adoption of fuel cells and related clean energy systems. He received his PhD in Chemistry from the Department of Chemistry and Chemical Biology at Cornell University. His PhD research in Prof. Héctor D. Abruña’s group focused on the investigation of novel materials for electrochemical energy generation and storage. Outside of work, Gabriel enjoys reading, jogging, going on walks and learning new skills."
 
 - name: Seung-Ho Yu
   email: sy578@cornell.edu
