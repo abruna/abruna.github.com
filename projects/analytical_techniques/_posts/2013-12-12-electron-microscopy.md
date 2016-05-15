@@ -17,14 +17,24 @@ citations:
   - "Electrochemistry Communications, 2013, 28, 40-43"
   - "Microscopy and Microanalysis, 2013, 19, 1027-1035."
 ---
-An ex-situ location tracking technique is performed for studying catalyst sintering mechanism in three dimensions, revealing the underlying degradation mechanism of be nanoparticle coalescence (Fig.1, Ref 1). With the advances of abreaction-corrected scanning transmission electron microscopy with electron energy loss spectroscopic imaging (STEM-EELS), we have also studied many fuel cell oxygen reduction reaction (ORR) catalyst including intermetallic Pt-Co (Ref 2), dealloyed Pt-Cu (Ref 3), surfactant-free Pt-Fe (Ref 4-5), core-shell structured Pd-Co (Ref 6-7). This approach is also used to study different Li-sulfur battery materials (Ref 8-11), and silicon anode for Li-ion battery (Ref 12).
+Electron microscopy provides tools to directly image the structure and chemistry of materials at atomic and nanometer length scales. The Abruña group uses advanced transmission electron microscopy (TEM) techniques to study materials for fuel cells and batteries.
 
-In-situ imaging through liquids is a promising approach for exploring electrochemical processes that typically occur in liquid environments.  Recent advances in microfluidic cells for use in STEM have enabled nanometer-scale imaging through liquids in real time (Ref 13). Developments in holder circuitry also provide the groundwork for in-situ electrochemical studies for fuel cell and battery materials (Fig.2). One example of performing in-situ EELS and energy filtered TEM (EFTEM) has enabled the real time imaging the lithiation and delithiation process of LiFePO<sub>4</sub> in a battery full cell (Fig.3). 
+Identical-location imaging and tomography
+To understand the mechanisms of fuel cell catalyst degradation, the Abruña group uses identical-location TEM, where a TEM grid is loaded with catalyst particles and used as a working electrode for electrochemical aging, allowing the morphology of Pt-Co alloy and shape-controlled Pt catalysts to be observed before and after the experiment (Fig. 1). [1,2]
+
+Aberration-corrected Scanning TEM (STEM) imaging and electron energy-loss spectroscopy (EELS) 
+Aberration-corrected STEM enables imaging of atomic structure at Angstrom resolution, and high beam current to enable rapid chemical imaging with EELS. The Abruña group uses these techniques to understand the detailed structure and performance of ordered intermetallic Pt3Co and dealloyed Cu3Pt fuel cell catalyst nanoparticles. [3,4]
+
+Operando electrochemical experiments in liquid
+The Abruña group has developed techniques to observe electrochemical processes in operation in the TEM using a specially designed, electron-transparent electrochemical cell (Fig. 2). This has allowed the observation of charging and discharging processes in LiFePO4, a lithium ion battery cathode material, using energy-filtered TEM to track the lithium ions (Fig. 3). [5,6]
+
+In-situ heating experiments 
+The Abruña group has also performed in-situ heating TEM experiments to observe the dynamics of annealing and sintering in fuel cell catalyst nanoparticles. [7,8]
 
 ![Figure 1](/images/projects/electron_microscopy/figure_1.png)
 
 <p class="caption">
-Fig.1. 3-D tomographic reconstruction of Pt-Co fuel cell catalyst before (yellow) and after (red) 30,000 electrochemical cycles between +0.6 V to +1.0 V (vs.RHE). Coalescence is revealed as the major degradation mechanism. Figure reproduced from Ref.1.
+Fig.1. 3-D tomographic reconstruction of Pt-Co fuel cell catalyst before (yellow) and after (red) 30,000 electrochemical cycles between +0.6 V to +1.0 V (vs.RHE). Coalescence is revealed as the major degradation mechanism. Figure reproduced from [1].
 </p>
 
 ![Figure 2](/images/projects/electron_microscopy/figure_2.png)
