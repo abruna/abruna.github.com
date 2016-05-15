@@ -3,19 +3,14 @@ layout: project
 title: Electron Microscopy
 excerpt: ""
 citations:
-  - "Nano Letters, 2012, 12 (9), 4417-4423."
-  - "Nature Materials, 2013, (12), 81–87."
-  - "Nano Letters, 2012, 12 (10), 5230–5238."
-  - "Journal of the American Chemical Society, 2012, 134 (44), 18453–18459"
-  - "Chemistry of Materials, 2013, 25, 1436−1442"
-  - "Journal of the American Chemical Society, 2010, 132, 17664–1766"
-  - "Chemistry of Materials, 2012, 24 (12), 2274–2281"
-  - "Journal of the American Chemical Society, 2013, 135 (2), 763–767"
-  - "Journal of Material Chemistry A, 2013, 1, 1433"
-  - "ACS Nano, 2013, DOI: 10.1021/nn403237b, in press"
-  - "Physical Chemistry Chemical Physics, 2013, 15, 9051-9057"
-  - "Electrochemistry Communications, 2013, 28, 40-43"
-  - "Microscopy and Microanalysis, 2013, 19, 1027-1035."
+  - "Yu, Y., Xin, H. L., Hovden, R., Wang, D., Rus, E. D., Mundy, J. A., Muller, D. A. & Abruña, H. D. Three-dimensional tracking and visualization of hundreds of Pt−Co fuel cell nanocatalysts during electrochemical aging. Nano lett. 12, 4417-4423 (2012)."
+  - "Arán-Ais, R., Yu, Y., Hovden, R., Solla-Gullón, J., Herrero, E., Feliu, J. & Abruña, H. Identical Location Transmission Electron Microscopy Imaging of Site-Selective Pt Nanocatalysts: Electrochemical Activation and Surface Disordering. J. Am. Chem. Soc. 137, 14992-14998 (2015)."
+  - "Wang, D., Xin, H. L., Hovden, R., Wang, H., Yu, Y., Muller, D. A., DiSalvo, F. J. & Abruña, H. D. Structurally ordered intermetallic platinum–cobalt core–shell nanoparticles with enhanced activity and stability as oxygen reduction electrocatalysts. Nature Materials 12, 81-87 (2013)."
+  - "Wang, D., Yu, Y., Zhu, J., Liu, S., Muller, D. & Abruña, H. Morphology and Activity Tuning of Cu3Pt/C Ordered Intermetallic Nanoparticles by Selective Electrochemical Dealloying. Nano Letters 15, 1343-1348 (2015)."
+  - "Holtz, M., Yu, Y., Gao, J., Abruña, H. & Muller, D. In Situ Electron Energy-Loss Spectroscopy in Liquids. Microscopy and Microanalysis 19, 1027-1035 (2013)."
+  - "Holtz, M., Yu, Y., Gunceler, D., Gao, J., Sundararaman, R., Schwarz, K., Arias, T., Abruña, H. & Muller, D. Nanoscale Imaging of Lithium Ion Distribution During In Situ Operation of Battery Electrode and Electrolyte. Nano Letters 14, 1453-1459 (2014)."
+  - "Chen, H., Yu, Y., Xin, H. L., Newton, K. A., Holtz, M. E., Wang, D., Muller, D. A., Abruña, H. D. & DiSalvo, F. J. Coalescence in the thermal annealing of nanoparticles: An in situ STEM study of the growth mechanisms of ordered Pt–Fe nanoparticles in a KCl matrix. Chemistry of Materials 25, 1436-1442 (2013)."
+  - "Baumgardner, W., Yu, Y., Hovden, R., Honrao, S., Hennig, R., Abruña, H., Muller, D. & Hanrath, T. Nanoparticle Metamorphosis: An in Situ High-Temperature Transmission Electron Microscopy Study of the Structural Evolution of Heterogeneous Au:Fe2O3 Nanoparticles. ACS Nano 8, 5315-5322 (2014)."
 ---
 Electron microscopy provides tools to directly image the structure and chemistry of materials at atomic and nanometer length scales. The Abruña group uses advanced transmission electron microscopy (TEM) techniques to study materials for fuel cells and batteries.
 
@@ -40,11 +35,11 @@ Fig.1. 3-D tomographic reconstruction of Pt-Co fuel cell catalyst before (yellow
 ![Figure 2](/images/projects/electron_microscopy/figure_2.png)
 
 <p class="caption">
-Fig.2 Schematics of the in-situ electrochemical (S)TEM setup. Figure reproduced from Ref.13.
+Fig.2 Schematic of the in situ electrochemistry TEM holder and electrochemical data. (a) Cross-sectional view of the holder, with silicon nitride membranes encapsulating a fluid layer. The working electrode (WE), made of carbon, lies in the viewing window, with LiFePO4 (LFP) nanoparticles deposited on top. The platinum counter electrode (CE) is coated with an excess of activated carbon (AC). In EFTEM mode, energies are selected by a slit to be imaged. (b) Schematic of the top chip, with three patterned electrodes: a carbon WE on the viewing membrane, Pt reference electrode (RE), which is not used in the battery experiment, and Pt CE. The connection leads are covered by SU8, and the contact pads to the holder do not contact the liquid so as to minimize electrochemical activity outside the viewing window. The chips exhibited electrochemical activity qualitatively similar to that of an ex situ microelectrode, as shown for the Pt cyclic voltammetry (CV) in (c) and in (d). In extremely thin liquid layers (∼150 nm), the voltammetric profile exhibits a significant ohmic drop, as seen in (d). Reproduced from [6].
 </p>
 
 ![Figure 3](/images/projects/electron_microscopy/figure_3.png)
 
 <p class="caption">
-Fig3. STEM-EELS and EFTEM of LiFePO<sub>4</sub> nanoparticles in liquids. (a) Core-loss STEM-EELS on and off a nanoparticle, where the Fe L-edge is seen on the particle and the O K-edge is seen both on the particle and in the solution. EFTEM with a 5 eV energy selecting slit centered around (b) 0 eV where the liquid dominates the signal, (c) 25 eV at the plasmon peak of the liquid, where the liquid dominates the signal, (d) 5 eV in the optical gap of the liquid showing FePO4 transitions, (e) 10 eV, with a low background signal from the liquid and a slightly stronger signal from LiFePO<sub>4</sub> than FePO<sub>4</sub>, and (f) an overlay of the 5 eV image in green highlighting the FePO<sub>4</sub> and the 10 eV image in red showing the LiFePO<sub>4</sub>. Figure reproduced from Ref. 13.
+Fig3. In situ charging and discharging of the cathode material LiFePO4 in 0.5 M Li2SO4 aqueous electrolyte. (a) The 5 eV spectroscopic EFTEM images of charging and discharging at indicated times. Scale bar is 400 nm. Bright regions are delithiated FePO4 and dark regions are LiFePO4. There are more bright regions of FePO4 at the end of charge cycles and less during the discharges. White arrows point toward “bright” charged particles, and black arrows point toward “dark” discharged particles. (b) Current profile corresponding to 10C. Time = 0 s corresponds to the start of our study, which began on the third charge cycle (not on the first) after assembly. Arrows on the top axis indicate the times of the images shown in (a). The corresponding voltage profile is in (c), referencing the activated carbon counter electrode. (d) Integrated intensity over various regions, tracking with the voltage profile, from the regions shown by the boxes in (a). The solution becomes very dark during discharges and returns to the background level during charge. Regions of the particle are seen to light up and disappear, potentially due to delithiating and fracturing off of the particle cluster. During times when no imaging occurred, the data are linearly extrapolated, and for comparison, the intensity is brought to the same level by subtraction. Reproduced from [6].
 </p>
