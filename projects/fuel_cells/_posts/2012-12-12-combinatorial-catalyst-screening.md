@@ -3,9 +3,11 @@ layout: project
 title: Combinatorial Catalyst Screening
 excerpt: ""
 citations:
-  - "Liu, G.C-K.; Sanderson, R.J.; Vernstrom, G.; Stevens, D.A.; Atanasoski, R.T.; Debe, M.K.; Dahn, J.R. J. Electrochem.Soc., 2010, 157 (2) B207-B214."
-  - "Gregoire, J.M.; van Dover, R.B.; Jin, J.; DiSalvo, F.J.; Abruña, H.D. Rev. Sci. Instrum. 2007, 78, 072212."
-  - "Jin, J.; Prochaska, M.; Rochefort, D.; Kim, D.K.; Zhuang, L.; DiSalvo, F.J.; van Dover, R.B.; Abruña, H.D. App. Surf. Sci. 2007, 254, 653–661"
+  - "O'Dea, J. R. et al. Conductivity and Microstructure of Combinatorially Sputter-Deposited Ta-Ti-Al Nitride Thin Films. Chem. Mater. (2015). doi:10.1021/cm504599s"
+  - "Almeida, T. S., Van Wassen, A. R., Van Dover, R. B., de Andrade, A. R. & Abruña, H. D. Combinatorial PtSnM (M = Fe, Ni, Ru and Pd) nanoparticle catalyst library toward ethanol electrooxidation. J. Power Sources 284, 623–630 (2015)."
+  - "Liu, G. C.-K. et al. RDE Measurements of ORR Activity of Pt1−xIrx (0<x<0.3) on High Surface Area NSTF-Coated Glassy Carbon Disks. J. Electrochem. Soc. 157, B207 (2010)."
+  - "Gregoire, J. M., Lobovsky, M. B., Heinz, M. F., DiSalvo, F. J. & van Dover, R. B. Resputtering phenomena and determination of composition in codeposited films. Phys. Rev. B 76, 195437 (2007)."
+  - "in, J. et al. A high-throughput search for direct methanol fuel cell anode electrocatalysts of type PtxBiyPbz. Appl. Surf. Sci. 254, 653–661 (2007)."
 ---
 With future energy needs growing, it has become essential for alternative energy conversion technologies to be explored, one of which being fuel cells. Factors limiting further application of fuel cells are that known electrocatalysts for both the anode and cathode are expensive, not very efficient, intolerant to fuel contaminants, and unstable over time. This project focuses on the high throughput screening of possible electrocatalysts for fuel cell applications.
 
