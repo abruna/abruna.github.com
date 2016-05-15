@@ -14,16 +14,16 @@ citations:
 ---
 Electron microscopy provides tools to directly image the structure and chemistry of materials at atomic and nanometer length scales. The Abruña group uses advanced transmission electron microscopy (TEM) techniques to study materials for fuel cells and batteries.
 
-Identical-location imaging and tomography
+<b>Identical-location imaging and tomography</b>
 To understand the mechanisms of fuel cell catalyst degradation, the Abruña group uses identical-location TEM, where a TEM grid is loaded with catalyst particles and used as a working electrode for electrochemical aging, allowing the morphology of Pt-Co alloy and shape-controlled Pt catalysts to be observed before and after the experiment (Fig. 1). [1,2]
 
-Aberration-corrected Scanning TEM (STEM) imaging and electron energy-loss spectroscopy (EELS) 
+<b>Aberration-corrected Scanning TEM (STEM) imaging and electron energy-loss spectroscopy (EELS)</b>
 Aberration-corrected STEM enables imaging of atomic structure at Angstrom resolution, and high beam current to enable rapid chemical imaging with EELS. The Abruña group uses these techniques to understand the detailed structure and performance of ordered intermetallic Pt3Co and dealloyed Cu3Pt fuel cell catalyst nanoparticles. [3,4]
 
-Operando electrochemical experiments in liquid
+<b>Operando electrochemical experiments in liquid</b>
 The Abruña group has developed techniques to observe electrochemical processes in operation in the TEM using a specially designed, electron-transparent electrochemical cell (Fig. 2). This has allowed the observation of charging and discharging processes in LiFePO4, a lithium ion battery cathode material, using energy-filtered TEM to track the lithium ions (Fig. 3). [5,6]
 
-In-situ heating experiments 
+<b>In-situ heating experiments</b>
 The Abruña group has also performed in-situ heating TEM experiments to observe the dynamics of annealing and sintering in fuel cell catalyst nanoparticles. [7,8]
 
 ![Figure 1](/images/projects/electron_microscopy/figure_1.png)
